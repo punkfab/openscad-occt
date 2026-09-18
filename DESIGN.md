@@ -311,4 +311,4 @@ Strategic questions to sit with:
 
 ---
 
-*State as of the M2 milestone. Repo: https://github.com/dnewcome/openscad-occt*
+*State as of the M2 milestone. Repo: https://github.com/punkfab/openscad-occt*
